@@ -40,3 +40,7 @@ Go through all the issues in the `Done` column and +1 or -1 any issue.
 ## Product Owner
 
 @goern and @durandom are product owners
+
+# Further reading
+
+The Thoth team practiced SCRUM and maintains their [Terms and Conditions](https://github.com/thoth-station/core/blob/master/docs/TermsAndConditionsForTheScrum.md), which we can build upon.
