@@ -5,7 +5,7 @@ Sprints are planned in the [SCRUM BOARD].
 
 # TL;DR;
 
-1. check the stakeholder backlog for issues assigned to you and well define them, that they can be prioritized
+1. check the stakeholder backlog for issues assigned to you and well define them so that they can be prioritized
 2. keep your assigned issues in the other columns updated
 3. once done, move it to the `Done` column - don't do it just prior to the meeting
 4. come [prepared] to the sprint meeting
