@@ -38,13 +38,13 @@ these issues must be `triage/accepted`, but they don't need to be "assigned" to 
 ### In Progress
 The goal of [In Progress] is to see, which issues are currently worked on.
  - During the [Sprint Planning] issues are assigned and moved to the [Sprint Backlog].
- - All issues in the [Sprint Backlog] while be worked on in during the [Sprint].
+ - All issues in the [Sprint Backlog] will be worked on during the [Sprint].
  - When an assignee actively works on one or more of his/her/* issues, the assignee moves the issue to [In Progress].
 
 ### Done
 The goal of [Done] is to collect all the solved issues.
  - Issues here are ready to be tested/ checked/ approved by the Stakeholder (creator of the issue in general). 
- - Solved is defined as: the assignee took care of all the mentioned acceptance criterias during the sprint.
+ - Solved is defined as: the assignee took care of all the mentioned acceptance criteria during the sprint.
  - The assignee defines solved and moves the issue from [In Progress] to [Done].
  - The [PO] checks the [Done] issues regularly and informs the `Stakeholder` to check/test the solution for the issue:
    - This can be delegated to/ done by the issue assignee.
@@ -84,8 +84,8 @@ tbd
 #### During the [Sprint]
 tbd
 
-### Redefine Issues & Epics
-Goal of [Redefine Issues & Epics] is to understand issues better if needed and split issues bigger than 13 Story Points (= Epics) into smaller issues (<= 13 Story Points).
+### Backlog Refinement Session
+Goal of [Backlog Refinement Session] is to understand issues better if needed and split issues bigger than 13 Story Points (= Epics) into smaller issues (<= 13 Story Points).
 This will lead to issues that can be direct worked on (allow them into the [Product Backlog])
 
 tbd: when, who and how - hands on
@@ -111,9 +111,9 @@ Goal of the Sprint
 The [Product Owner] is repsonsible for:
  - Priorizing issues: Move it from [Stakeholder Backlog] to [Product Backlog]
  - Well defined: Approve an issue or Request a better defintion --> set `triage/accepted` label
- - Check or delegate the [Approval by Stakeholder]
+ - Check or delegate the [Approved by Stakeholder]
 
-@goern and @durandom are product owners
+[@goern](https://github.com/goern) and [@durandom](https://github.com/durandom) are product owners
 
 ## Glossary
 PO - Product Owner
@@ -145,4 +145,4 @@ Story Points - Effort estimation for an issue.  [Glossary]
 [The Scrum Board]: #the-scrum-board
 [Story Points Estimates]: https://github.com/thoth-station/core/blob/master/docs/TermsAndConditionsForTheScrum.md#estimates
 [Velocity]: https://www.scrum.org/resources/blog/agile-metrics-velocity
-[Redefine Issues & Epics]: #redefine-issues-&-epics
+[Backlog Refinement Session]: #backlog-refinement-session
