@@ -126,7 +126,8 @@ Story Points - Effort estimation for an issue.  [Glossary]
 |---------------------|-----------------|----------------|-------------|------|-------------------------|--------|
 |                     |                 |                |             |      |                         |        |
 
-
+# Further reading
+The Thoth team practiced SCRUM and maintains their [Terms and Conditions](https://github.com/thoth-station/core/blob/master/docs/TermsAndConditionsForTheScrum.md), which we can build upon.
 
 [SCRUM BOARD]: https://github.com/orgs/open-services-group/projects/21/views/1
 [product owner]: #product-owner
